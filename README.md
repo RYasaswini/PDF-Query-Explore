@@ -46,6 +46,23 @@ A full-stack application that allows users to upload PDF files and ask questions
 ├── .gitignore                # Git ignored files
 └── README.md                 # Project documentation
 ```
+## Setup Backend (FastAPI)
 
+- cd backend
+- python -m venv venv
+- source venv/bin/activate  # Windows: venv\Scripts\activate
+- pip install -r requirements.txt
+- uvicorn main:app --reload
+  
+## Setup Frontend (React)
+
+- cd frontend
+- npm install
+- npm run dev
+
+## API Overview
+- POST	/upload	Upload a PDF file
+- POST	/ask	Ask a question on a PDF
+- GET	/documents	List uploaded documents
 
 
