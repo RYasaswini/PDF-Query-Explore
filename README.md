@@ -27,6 +27,7 @@ A full-stack application that allows users to upload PDF files and ask questions
 ---
 
 ## 📁 Folder Structure
+```text
 .
 ├── public/                   # Static files (e.g. favicon, index.html)
 ├── src/                      # React source files
@@ -44,6 +45,7 @@ A full-stack application that allows users to upload PDF files and ask questions
 ├── vite.config.ts            # Vite config for bundling
 ├── .gitignore                # Git ignored files
 └── README.md                 # Project documentation
+```
 
 
 
