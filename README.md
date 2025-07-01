@@ -3,9 +3,10 @@
 A full-stack application that allows users to upload PDF files and ask questions about their content using natural language processing (LangChain / LlamaIndex).
 
 ---
+ ## 🌍 Live Demo
 
-### Live Demo
-🔗 pdf-query-explore.vercel.app
+Check out the live deployed version here:  
+👉 [pdf-query-explore.vercel.app](https://pdf-query-explore.vercel.app)
 
 ---
 
