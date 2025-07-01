@@ -4,6 +4,11 @@ A full-stack application that allows users to upload PDF files and ask questions
 
 ---
 
+### Live Demo
+🔗 pdf-query-explore.vercel.app
+
+---
+
 ## 🔧 Tech Stack
 
 - **Frontend**: React + Vite + TypeScript
